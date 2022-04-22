@@ -20,9 +20,9 @@
     An awesome <strong>crypto currency</strong> created to improve skills on React JS!
     <br />
     <br />
-    <a href="https://github.com/Glauco-Lustosa/Calculator">View Demo</a>
+    <a href="https://github.com/Glauco-Lustosa/react-api-crypto">View Demo</a>
     ·
-    <a href="https://github.com/Glauco-Lustosa/Calculator/issues">Report Bug</a>
+    <a href="https://github.com/Glauco-Lustosa/react-api-crypto/issues">Report Bug</a>
     
   </p>
 </div>
@@ -126,7 +126,7 @@ This project was built and posted on youtube by DeivId, Thanks for the free stud
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/Glauco-Lustosa/react-api-crypto/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
